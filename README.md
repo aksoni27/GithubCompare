@@ -1,3 +1,6 @@
+Install ## `Node moldues` using command `npm install`
+then install ## `styled-components` using cmd `npm install --save styled-components`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
